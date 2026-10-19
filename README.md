@@ -107,4 +107,7 @@ JUnit 5 was used to test the application's functionality. The tests verify:
 
 ## Conclusion
 
-This project demonstrates the use of classes, objects, constructors, methods, conditional statements, regular expressions, and unit testing in Java. The application is structured so that the main class manages user interaction while the `Login` class handles validation and authentication logic.
+This project demonstrates the use of classes, objects, constructors, methods, conditional statements, regular expressions, and unit testing in Java. The application is structured so that the main class manages user interaction while the `Login` class handles validation and au
+thentication logic.
+now we just did part 2 of the poe and added new files for the project
+
